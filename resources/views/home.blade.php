@@ -6,7 +6,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12 col-lg-6">
-				<h1 class="display-4 text-primary">Desarrollo Web - Laravel</h1>
+				<h1 class="display-5 text-primary">Desarrollo Web - Laravel</h1>
+				<h1 class="display-6 text-primary">Instructor - Javier Ferreira</h1>
 				<p class="text-secondary">ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
